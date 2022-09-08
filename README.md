@@ -1,7 +1,7 @@
 # Miami landing page
 
 
-- [DEMO LINK](https://kalmykovmikhail2.github.io/landing_miami/) 
-- [figma design](https://www.figma.com/file/nHz8bflIwJaWP3P99vKTH5/miami_home_new?node-id=16033%3A3)
+- [DEMO LINK](https://kalmykovmikhail2.github.io/landing_mybike/) 
+- [figma design](https://www.figma.com/file/Ic3SlZjkATYaS7uTifZAIk/BIKE?node-id=0%3A1)
 
 
