@@ -1,21 +1,14 @@
 .footer {
-  display: flex;
-  justify-content: center;
-  align-items: flex-end;
+  height: $footerHeigthMobile;
 
-  background: url("/images/photos/footer.jpg") center / cover;
-
-  height: $height-footer-dskt;
-
-  @include onMobile {
-    height: $height-footer-mb;
+  @include onTablet {
+    height: $footerHeigthTable;
   }
 
-  &__logo {
-    margin-bottom: 36px;
-    
-    @include onMobile {
-      margin-bottom: 24px;
-    }
+  @include onDesktop {
+    height: $footerHeigthDesktop;
   }
+
+  background-image: url(../images/photos/footer.jpg);
+  @extend %background-img-settings;
 }
