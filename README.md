@@ -1,4 +1,4 @@
-# Miami landing page
+# MyBike landing page
 
 
 - [DEMO LINK](https://kalmykovmikhail2.github.io/landing_mybike/) 
